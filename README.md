@@ -19,7 +19,7 @@ New collections and their status is shown in the table below:
 |---------------------|------------------------------------|-------------|
 | Live sub-collection | Live refleciton of collection part | Implemented |
 | Live sub-set        | Live reflection of set part        | Implemented |
-| Live sub-list       | Live reflection of list part       | Is progress |
+| Live sub-list       | Live reflection of list part       | In progress |
 | Live sub-map        | Live reflection of map part        | Planned     |
 | Class map           | Map with class as key type         | Planned     |
 
