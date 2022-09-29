@@ -40,7 +40,7 @@ Second, add library as dependency:
 <dependency>
     <groupId>space.moontalk.more</groupId>
     <artifactId>collections</artifactId>
-    <version>1.0.0</version>
+    <version>0.0.1</version>
 </dependency>
 ```
 
